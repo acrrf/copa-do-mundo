@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">copa-do-mundo</string>
+    <string name="jogador1">Goleiro</string>
+    <string name="jogador2">Defesa</string>
+    <string name="jogador3">Defesa</string>
+    <string name="jogador4">Defesa</string>
+    <string name="jogador5">Atacante</string>
+    <string name="jogador6">Meia</string>
+    <string name="jogador7">Meia</string>
+    <string name="jogador8">Meia</string>
+    <string name="jogador9">Atacante</string>
+    <string name="jogador10">Goleiro</string>
+    <string name="jogador11">Meia</string>
+    <string name="jogador12">Atacante</string>
+    <string name="jogador13">Defesa</string>
+    <string name="jogador14">Meia</string>
+    <string name="jogador15">Atacante</string>
+    <string name="jogador16">Defesa</string>
+    <string name="jogador17">Meia</string>
+    <string name="jogador18">Defesa</string>
+    <string name="jogador19">Atacante</string>
+    <string name="jogador20">Defesa</string>
+    <string name="jogador21">Defesa</string>
+    <string name="jogador22">Defesa</string>
+    <string name="jogador23">Goleiro</string>
+    <string name="jogador24">Meia</string>
+    <string name="jogador25">Meia</string>
+    <string name="jogador26">Meia</string>
+</resources>

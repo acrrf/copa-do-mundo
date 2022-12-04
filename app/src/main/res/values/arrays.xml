@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dinamarca">
+        <item>1		Kasper Schmeichel		POS=Goleiro</item>
+        <item>4		Simon Kjaer 			POS=Defesa</item>
+        <item>18	Daniel Wass 			POS=Defesa</item>
+        <item>17	Jens Stryger Larsen 	POS=Defesa</item>
+        <item>9		Martin Braithwaite  	POS=Atacante</item>
+        <item>8		Thomas Delaney			POS=Meia</item>
+        <item>10	Christian Eriksen		POS=Meia</item>
+        <item>15	Christian Norgaard		POS=Meia</item>
+        <item>20	Yussuf Poulsen  		POS=Atacante</item>
+        <item>22	Frederik Ronnow 		POS=Goleiro</item>
+        <item>23	Pierre-Emile Hojbjerg	POS=Meia</item>
+        <item>21	Andreas Cornelius		POS=Atacante</item>
+        <item>6		Andreas Christensen 	POS=Defesa</item>
+        <item>24	Robert Skov 			POS=Meia</item>
+        <item>12	Kasper Dolberg			POS=Atacante</item>
+        <item>2		Joachim	Andersen    	POS=Defesa</item>
+        <item>7		Mathias	Jensen  		POS=Meia</item>
+        <item>13	Rasmus Kristensen		POS=Defesa</item>
+        <item>19	Jonas Wind				POS=Atacante</item>
+        <item>5		Joakim Maehle   		POS=Defesa</item>
+        <item>3		Victor Nelsson  		POS=Defesa</item>
+        <item>26	Alexander Bah 			POS=Defesa</item>
+        <item>16	Oliver Christensen		POS=Goleiro</item>
+        <item>11	Andreas Skov Olsen		POS=Meia</item>
+        <item>14	Mikkel Damsgaard		POS=Meia</item>
+        <item>25	Jesper Lindstrom		POS=Meia</item>
+    </string-array>
+</resources>
