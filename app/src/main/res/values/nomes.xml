@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome1">1		Kasper Schmeichel		</string>
+    <string name="nome2">4		Simon Kjaer 			</string>
+    <string name="nome3">18		Daniel Wass 			</string>
+    <string name="nome4">17		Jens Stryger Larsen 	</string>
+    <string name="nome5">9		Martin Braithwaite  	</string>
+    <string name="nome6">8		Thomas Delaney			</string>
+    <string name="nome7">10		Christian Eriksen		</string>
+    <string name="nome8">15		Christian Norgaard		</string>
+    <string name="nome9">20		Yussuf Poulsen  		</string>
+    <string name="nome10">22	Frederik Ronnow 		</string>
+    <string name="nome11">23	Pierre-Emile Hojbjerg	</string>
+    <string name="nome12">21	Andreas Cornelius		</string>
+    <string name="nome13">6		Andreas Christensen 	</string>
+    <string name="nome14">24	Robert Skov 			</string>
+    <string name="nome15">12	Kasper Dolberg			</string>
+    <string name="nome16">2		Joachim	Andersen    	</string>
+    <string name="nome17">7		Mathias	Jensen  		</string>
+    <string name="nome18">13	Rasmus Kristensen		</string>
+    <string name="nome19">19	Jonas Wind				</string>
+    <string name="nome20">5		Joakim Maehle   		</string>
+    <string name="nome21">3		Victor Nelsson  		</string>
+    <string name="nome22">26	Alexander Bah 			</string>
+    <string name="nome23">16	Oliver Christensen		</string>
+    <string name="nome24">11	Andreas Skov Olsen		</string>
+    <string name="nome25">14	Mikkel Damsgaard		</string>
+    <string name="nome26">25	Jesper Lindstrom		</string>
+</resources>

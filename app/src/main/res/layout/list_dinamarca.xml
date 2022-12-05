@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/item_title"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content" />
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/item_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        />
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/jogador_imagem"
+        android:importantForAccessibility="no"
+        android:scaleType="centerCrop"
+        android:layout_marginLeft="150dp"
+
+        />
+
+    <TextView
+        android:id="@+id/item_title"
+        android:layout_width= "match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/black"/>
+
+
+
+</LinearLayout>
+
+
+
