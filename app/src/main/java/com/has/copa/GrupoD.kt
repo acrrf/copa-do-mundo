@@ -8,6 +8,8 @@ import com.has.copa.data.Datasource
 
 
 class GrupoD : AppCompatActivity() {
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_grupo_d)
